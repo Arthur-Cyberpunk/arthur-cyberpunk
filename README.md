@@ -22,7 +22,7 @@
 ✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have 4 years of experience in Front-End and Back-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio). See my [Portfolio](https://arthursantosdev.vercel.app/).
 
 
-<p align= "center"> 🌍  Santa Catarina | 🧠  React/Node | 🤝  Open to collaborating on Front-End Projects </p>
+<p align= "center"> 🌍  Santa Catarina | 🧠  React/Node | 🤝  Open to collaborating on Projects </p>
 
 ### ✔ Skills :art:
 
