@@ -17,9 +17,9 @@
 
 #
 
-✔ Atualmente sou formado formada em Tecnologia em Analise e Desenvolvimento de Sistemas, possuo mais de 3 anos de experiencia no desenvolvimento Front-End. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) ou [Discord](https://discord.com/users/pirusenfreio). Veja meu [Portfólio](https://arthursantosdev.vercel.app/).
+✔ Atualmente sou formado formada em Tecnologia em Analise e Desenvolvimento de Sistemas, possuo 4 anos de experiencia no desenvolvimento Front-End e Back-End. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) ou [Discord](https://discord.com/users/pirusenfreio). Veja meu [Portfólio](https://arthursantosdev.vercel.app/).
 
-✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have two years of experience in Front-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio). See my [Portfolio](https://arthursantosdev.vercel.app/).
+✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have 4 years of experience in Front-End and Back-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio). See my [Portfolio](https://arthursantosdev.vercel.app/).
 
 
 <p align= "center"> 🌍  Santa Catarina | 🧠  React | 🤝  Open to collaborating on Front-End Projects </p>
