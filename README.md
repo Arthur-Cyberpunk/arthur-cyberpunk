@@ -13,7 +13,7 @@
 
 <p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
 <p align= "center">✔ Welcome to my GitHub profile! ✔</p>
- <div align="center">⭐ Front-End Developer ⭐</div>
+ <div align="center">⭐ FullStack Developer ⭐</div>
 
 #
 
@@ -22,7 +22,7 @@
 ✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have 4 years of experience in Front-End and Back-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio). See my [Portfolio](https://arthursantosdev.vercel.app/).
 
 
-<p align= "center"> 🌍  Santa Catarina | 🧠  React | 🤝  Open to collaborating on Front-End Projects </p>
+<p align= "center"> 🌍  Santa Catarina | 🧠  React/Node | 🤝  Open to collaborating on Front-End Projects </p>
 
 ### ✔ Skills :art:
 
