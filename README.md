@@ -13,13 +13,13 @@
 
 <p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
 <p align= "center">✔ Welcome to my GitHub profile! ✔</p>
- <div align="center">⭐ FullStack Developer ⭐</div>
+ <div align="center">⭐ Frontend Developer ⭐</div>
 
 #
 
-✔ Atualmente sou formado formada em Tecnologia em Analise e Desenvolvimento de Sistemas, possuo 4 anos de experiencia no desenvolvimento Front-End e Back-End. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) ou [Discord](https://discord.com/users/pirusenfreio). Veja meu [Portfólio](https://arthursantosdev.vercel.app/).
+✔ Atualmente sou formado formada em Tecnologia em Analise e Desenvolvimento de Sistemas, possuo 4 anos de experiencia no desenvolvimento Front-End e Back-End. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) ou [Discord](https://discord.com/users/pirusenfreio).
 
-✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have 4 years of experience in Front-End and Back-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio). See my [Portfolio](https://arthursantosdev.vercel.app/).
+✔ Currently, I am graduated in Systems Analysis and Development Technology, and I have 4 years of experience in Front-End and Back-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-dos-santos-6842b5173/) or [Discord](https://discord.com/users/pirusenfreio).
 
 
 <p align= "center"> 🌍  Santa Catarina | 🧠  React/Node | 🤝  Open to collaborating on Projects </p>
